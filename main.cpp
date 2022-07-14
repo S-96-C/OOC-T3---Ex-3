@@ -16,6 +16,7 @@ int main() {
 
     int totalVolume;
 
+    //Input the height, width, length
     cout << "Enter Box 1 Height : ";
     cin >> box1.height;
     cout << "Enter Box 1 Width : ";
